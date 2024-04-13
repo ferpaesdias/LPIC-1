@@ -1,2 +1,3 @@
-# 4Linux-LPIC1
-4Linux - Preparatório para a LPIC1 
+# LPIC-1
+
+Resumo de meus estudos para a certificação LPIC-1
