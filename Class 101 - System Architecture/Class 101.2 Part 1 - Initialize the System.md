@@ -45,3 +45,11 @@ In general, the pre-operating system boot steps on a **UEFI** system are:
 4. If the default EFI application is a bootloader, it loads the kernel to boot the operating system.
 
 The **UEFI** standard also supports a feature called Secure Boot, which only allows signed EFI applications to run, that is, EFI applications authorized by the hardware manufacturer. This feature increases protection against malicious software, but may make it difficult to install operating systems not covered by the manufacturer's warranty.
+
+<br>
+
+## Bootloader
+
+**GRUB (Grand Unified Bootloader)** is the most popular bootloader for Linux (x86). As it is called by BIOS or UEFI, GRUB shows a list of operating systems available to boot.
+
+Sometimes the list does not appear automatically, but can be invoked by pressing `Shift` while the system is being called by the BIOS. On UEFI systems, the key to use is `Esc`.
