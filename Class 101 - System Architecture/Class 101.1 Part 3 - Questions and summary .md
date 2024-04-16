@@ -1,2 +1,0 @@
-# Questions and Summary
-
